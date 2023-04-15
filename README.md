@@ -4,7 +4,7 @@ Beamer presentation template for University of Macau
 
 Edited from https://github.com/Cloe-po/UMacau_Beamer
 
-[Demo](./slide.pdf)
+[Demo](./Slide.pdf)
 
 ## Note
 
